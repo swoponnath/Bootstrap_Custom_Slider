@@ -1,0 +1,22 @@
+.c_prev {
+    left: 80% !important;
+    bottom: -72% !important;
+}
+.c_next {
+    right: 0 !important;
+    bottom: -72% !important;
+}
+
+.carousel-indicators {
+    display: block;
+    right: 70%;
+    bottom: 60%;
+
+
+
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 9px;
+    background-color: #0d6efd;
+   
+}
